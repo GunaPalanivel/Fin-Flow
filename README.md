@@ -18,7 +18,7 @@ My team, Mavericks, consisting of myself, [Guna Palanivel](https://www.linkedin.
 
 ## To Know More About Our Project
 
-Please find the LinkedIn post [here.]()
+Please find the LinkedIn post [here.](https://www.linkedin.com/posts/guna-palanivel_recursionhackathon24-teammavericks-innovation-activity-7193271179543994368-IxJs?utm_source=share&utm_medium=member_desktop)
 
 Please find the Project Proposal [here.](https://docs.google.com/presentation/d/1gzzYYaNA8KwgjOrSJY4UMBp0fcXfG_b8/edit?usp=sharing&ouid=115204430181103761560&rtpof=true&sd=true)
 
