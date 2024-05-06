@@ -37,7 +37,8 @@ Please find the Project Proposal [here.](https://docs.google.com/presentation/d/
 
 ## Demo
 
-Check out our live app demonstration [here](https://finflowin.vercel.app/)!
+Check out our live app demonstration [here](https://finflowin.vercel.app/)
+
 Once you have created an account [Login here](https://finflowin.vercel.app/dashboard)
 
 ## Roadmap
