@@ -14,7 +14,7 @@ Our Next.js Expense Tracker App offers a solution to help students gain control 
 
 ## Recognization and Awards
 
-My team, Mavericks, consisting of myself, [Guna Palanivel](https://www.linkedin.com/in/guna-palanivel/), along with my teammates [Pranav KR](https://www.linkedin.com/in/pranav-k-r/) and [Sriram Udhayakumar](https://www.linkedin.com/in/sriram1827/), participated in the prestigious Recursion Hackathon held at Pondicherry Univeristy, Puducherry on 03/05/2024 to 04/05/2024. And guess what? We clinched the second prize in both the preliminary and final rounds, along with a cool cash prize of ₹1000!
+My team, Mavericks, consisting of myself, [Guna Palanivel](https://www.linkedin.com/in/guna-palanivel/), along with my teammates [Pranav KR](https://www.linkedin.com/in/pranav-k-r/) and [Sriram Udhayakumar](https://www.linkedin.com/in/sriram1827/), participated in the prestigious Recursion Hackathon held at [Pondicherry Univeristy](https://www.pondiuni.edu.in/), Puducherry on 03/05/2024 to 04/05/2024. And guess what? We clinched the second prize in both the preliminary and final rounds, along with a cool cash prize of ₹1000!
 
 ## To Know More About Our Project
 
