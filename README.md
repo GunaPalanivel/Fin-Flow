@@ -1,16 +1,37 @@
 # Next.js Expense Tracker App
 
-## Introduction
+## 🎋 Introduction
+Welcome to the Next.js Expense Tracker App repository! This project was developed by Team Mavericks for the Recursion Hackathon 24 - Idea Submission Round. Our app is designed to empower students by providing a robust tool for managing their finances efficiently.
 
-Welcome to the Next.js Expense Tracker App repository! This innovative solution was developed by Mavericks for the Recursion Hackathon 24 - Idea Submission Round. Our team is passionate about empowering students with better financial management tools through our Next.js Expense Tracker App.
+## 📦 Tech Stack
+- **Frontend**:
+  - **React**: A JavaScript library for building user interfaces, particularly well-suited for single-page applications.
+  - **Next.js**: A powerful React framework that enables server-side rendering, static site generation, and easy API integration, providing performance optimizations and SEO benefits.
+  - **Tailwind CSS**: A utility-first CSS framework that allows for rapid UI development with predefined classes, resulting in consistent and responsive designs.
 
-## Problem Statement
+- **Backend**:
+  - **Dirzzle ORM**: A lightweight ORM (Object-Relational Mapping) for managing and querying the database, offering a clean and intuitive interface for database interactions.
+  - **Postgres**: A powerful, open-source relational database system known for its robustness, extensibility, and standards compliance.
 
-Students often face difficulties managing their monthly expenses, from rent and groceries to textbooks and extracurricular activities. Financial stress is prevalent among students, with many struggling to make ends meet and feeling anxious about their financial situation.
+- **Deployment**:
+  - **Vercel**: A cloud platform that enables easy and efficient deployment of Next.js applications with automatic scaling, serverless functions, and instant rollbacks.
 
-## Solution Overview
+## 👩🏽‍🍳 Features
+- **Customizable Budget Categories**: Tailor your budgeting experience by creating categories that match your financial needs.
+- **Interactive Data Visualizations**: Gain insights into your spending patterns with dynamic and visually appealing charts.
+- **Real-time Spending Tracking**: Monitor your expenses in real-time, allowing for better financial decisions.
+- **Responsive Design**: Enjoy a seamless experience across all devices, whether you're on a desktop, tablet, or mobile.
 
-Our Next.js Expense Tracker App offers a solution to help students gain control over their finances. Leveraging the power of Next.js, React, and Tailwind CSS, our app provides budgeting tips, real-time spending tracking, and interactive data visualizations. Key features include customizable budget categories, interactive data visualizations, and insightful analytics.
+## 💭 Process
+The journey began with a deep understanding of the financial challenges faced by students. We set out to create a user-friendly app that not only tracks expenses but also provides insightful data to help users manage their finances better. The development process involved setting up the Next.js framework, integrating Tailwind CSS for styling, and using Dirzzle ORM for efficient database management. We deployed the application on Vercel to ensure it is easily accessible.
+
+## 📚 Learnings
+Through this project, we enhanced our understanding of full-stack development, particularly with Next.js and Tailwind CSS. We also gained experience in deploying applications on Vercel, optimizing the app for performance and scalability.
+
+## ✨ Improvement
+While the app is functional, there's always room for improvement. In future versions, we plan to:
+- **Enhance Customization**: Allow users to integrate their banking services for a more comprehensive financial overview.
+- **Advanced Analytics**: Introduce AI-driven financial recommendations to help users make smarter financial decisions.
 
 ## Recognization and Awards
 
@@ -21,13 +42,6 @@ My team, Mavericks, consisting of myself, [Guna Palanivel](https://www.linkedin.
 Please find the LinkedIn post [here.](https://www.linkedin.com/posts/guna-palanivel_recursionhackathon24-teammavericks-innovation-activity-7193271179543994368-IxJs?utm_source=share&utm_medium=member_desktop)
 
 Please find the Project Proposal [here.](https://docs.google.com/presentation/d/1gzzYYaNA8KwgjOrSJY4UMBp0fcXfG_b8/edit?usp=sharing&ouid=115204430181103761560&rtpof=true&sd=true)
-
-## Features
-
-- **Customizable Budget Categories:** Tailor the app to your unique financial needs.
-- **Interactive Data Visualizations:** Gain a visual understanding of your spending habits.
-- **Real-time Spending Tracking:** Monitor your expenses and make informed decisions.
-- **Responsive Design:** Enjoy a seamless user experience on any device.
 
 ## Installation
 
